@@ -1,0 +1,902 @@
+[
+    {
+        "id": "185101",
+        "train": "10908",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "21:19:00",
+        "distance": "0"
+    },
+    {
+        "id": "185102",
+        "train": "10908",
+        "station": "8148",
+        "seq": "2",
+        "arrival": "21:59:00",
+        "departure": "00:00:00",
+        "distance": "23"
+    },
+    {
+        "id": "185103",
+        "train": "10909",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "23:19:00",
+        "distance": "0"
+    },
+    {
+        "id": "185104",
+        "train": "10909",
+        "station": "8148",
+        "seq": "2",
+        "arrival": "23:59:00",
+        "departure": "00:00:00",
+        "distance": "23"
+    },
+    {
+        "id": "185105",
+        "train": "10910",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "06:20:00",
+        "distance": "0"
+    },
+    {
+        "id": "185106",
+        "train": "10910",
+        "station": "71",
+        "seq": "2",
+        "arrival": "06:52:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185107",
+        "train": "10911",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "05:40:00",
+        "distance": "0"
+    },
+    {
+        "id": "185108",
+        "train": "10911",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "06:12:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185109",
+        "train": "10912",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "06:53:00",
+        "distance": "0"
+    },
+    {
+        "id": "185110",
+        "train": "10912",
+        "station": "71",
+        "seq": "2",
+        "arrival": "07:25:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185111",
+        "train": "10913",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "06:08:00",
+        "distance": "0"
+    },
+    {
+        "id": "185112",
+        "train": "10913",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "06:40:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185113",
+        "train": "10914",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "07:30:00",
+        "distance": "0"
+    },
+    {
+        "id": "185114",
+        "train": "10914",
+        "station": "71",
+        "seq": "2",
+        "arrival": "08:02:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185115",
+        "train": "10915",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "06:45:00",
+        "distance": "0"
+    },
+    {
+        "id": "185116",
+        "train": "10915",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "07:17:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185117",
+        "train": "10916",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "08:06:00",
+        "distance": "0"
+    },
+    {
+        "id": "185118",
+        "train": "10916",
+        "station": "71",
+        "seq": "2",
+        "arrival": "08:38:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185119",
+        "train": "10917",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "07:26:00",
+        "distance": "0"
+    },
+    {
+        "id": "185120",
+        "train": "10917",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "07:58:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185121",
+        "train": "10918",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "08:35:00",
+        "distance": "0"
+    },
+    {
+        "id": "185122",
+        "train": "10918",
+        "station": "71",
+        "seq": "2",
+        "arrival": "09:07:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185123",
+        "train": "10919",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "07:47:00",
+        "distance": "0"
+    },
+    {
+        "id": "185124",
+        "train": "10919",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "08:19:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185125",
+        "train": "10920",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "08:55:00",
+        "distance": "0"
+    },
+    {
+        "id": "185126",
+        "train": "10920",
+        "station": "71",
+        "seq": "2",
+        "arrival": "09:27:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185127",
+        "train": "10921",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "08:15:00",
+        "distance": "0"
+    },
+    {
+        "id": "185128",
+        "train": "10921",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "08:47:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185129",
+        "train": "10922",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "09:10:00",
+        "distance": "0"
+    },
+    {
+        "id": "185130",
+        "train": "10922",
+        "station": "71",
+        "seq": "2",
+        "arrival": "09:42:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185131",
+        "train": "10923",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "08:29:00",
+        "distance": "0"
+    },
+    {
+        "id": "185132",
+        "train": "10923",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "09:01:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185133",
+        "train": "10924",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "09:31:00",
+        "distance": "0"
+    },
+    {
+        "id": "185134",
+        "train": "10924",
+        "station": "71",
+        "seq": "2",
+        "arrival": "10:03:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185135",
+        "train": "10925",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "08:51:00",
+        "distance": "0"
+    },
+    {
+        "id": "185136",
+        "train": "10925",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "09:23:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185137",
+        "train": "10926",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "10:16:00",
+        "distance": "0"
+    },
+    {
+        "id": "185138",
+        "train": "10926",
+        "station": "71",
+        "seq": "2",
+        "arrival": "10:48:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185139",
+        "train": "10927",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "09:34:00",
+        "distance": "0"
+    },
+    {
+        "id": "185140",
+        "train": "10927",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "10:06:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185141",
+        "train": "10928",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "11:00:00",
+        "distance": "0"
+    },
+    {
+        "id": "185142",
+        "train": "10928",
+        "station": "71",
+        "seq": "2",
+        "arrival": "11:32:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185143",
+        "train": "10929",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "10:18:00",
+        "distance": "0"
+    },
+    {
+        "id": "185144",
+        "train": "10929",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "10:50:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185145",
+        "train": "10930",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "11:39:00",
+        "distance": "0"
+    },
+    {
+        "id": "185146",
+        "train": "10930",
+        "station": "71",
+        "seq": "2",
+        "arrival": "12:12:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185147",
+        "train": "10931",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "10:56:00",
+        "distance": "0"
+    },
+    {
+        "id": "185148",
+        "train": "10931",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "11:28:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185149",
+        "train": "10932",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "12:08:00",
+        "distance": "0"
+    },
+    {
+        "id": "185150",
+        "train": "10932",
+        "station": "71",
+        "seq": "2",
+        "arrival": "12:40:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185151",
+        "train": "10933",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "11:28:00",
+        "distance": "0"
+    },
+    {
+        "id": "185152",
+        "train": "10933",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "12:00:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185153",
+        "train": "10934",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "13:02:00",
+        "distance": "0"
+    },
+    {
+        "id": "185154",
+        "train": "10934",
+        "station": "71",
+        "seq": "2",
+        "arrival": "13:34:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185155",
+        "train": "10935",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "12:22:00",
+        "distance": "0"
+    },
+    {
+        "id": "185156",
+        "train": "10935",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "12:54:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185157",
+        "train": "10936",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "14:25:00",
+        "distance": "0"
+    },
+    {
+        "id": "185158",
+        "train": "10936",
+        "station": "71",
+        "seq": "2",
+        "arrival": "14:57:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185159",
+        "train": "10937",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "13:40:00",
+        "distance": "0"
+    },
+    {
+        "id": "185160",
+        "train": "10937",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "14:12:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185161",
+        "train": "10938",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "15:17:00",
+        "distance": "0"
+    },
+    {
+        "id": "185162",
+        "train": "10938",
+        "station": "71",
+        "seq": "2",
+        "arrival": "15:49:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185163",
+        "train": "10939",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "14:37:00",
+        "distance": "0"
+    },
+    {
+        "id": "185164",
+        "train": "10939",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "15:09:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185165",
+        "train": "10940",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "15:55:00",
+        "distance": "0"
+    },
+    {
+        "id": "185166",
+        "train": "10940",
+        "station": "71",
+        "seq": "2",
+        "arrival": "16:29:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185167",
+        "train": "10941",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "15:05:00",
+        "distance": "0"
+    },
+    {
+        "id": "185168",
+        "train": "10941",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "15:37:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185169",
+        "train": "10942",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "16:35:00",
+        "distance": "0"
+    },
+    {
+        "id": "185170",
+        "train": "10942",
+        "station": "71",
+        "seq": "2",
+        "arrival": "17:07:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185171",
+        "train": "10943",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "15:55:00",
+        "distance": "0"
+    },
+    {
+        "id": "185172",
+        "train": "10943",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "16:27:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185173",
+        "train": "10944",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "16:50:00",
+        "distance": "0"
+    },
+    {
+        "id": "185174",
+        "train": "10944",
+        "station": "71",
+        "seq": "2",
+        "arrival": "17:22:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185175",
+        "train": "10945",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "16:10:00",
+        "distance": "0"
+    },
+    {
+        "id": "185176",
+        "train": "10945",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "16:42:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185177",
+        "train": "10946",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "17:32:00",
+        "distance": "0"
+    },
+    {
+        "id": "185178",
+        "train": "10946",
+        "station": "71",
+        "seq": "2",
+        "arrival": "18:04:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185179",
+        "train": "10947",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "16:51:00",
+        "distance": "0"
+    },
+    {
+        "id": "185180",
+        "train": "10947",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "17:23:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185181",
+        "train": "10948",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "17:48:00",
+        "distance": "0"
+    },
+    {
+        "id": "185182",
+        "train": "10948",
+        "station": "71",
+        "seq": "2",
+        "arrival": "18:20:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185183",
+        "train": "10949",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "17:07:00",
+        "distance": "0"
+    },
+    {
+        "id": "185184",
+        "train": "10949",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "17:39:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185185",
+        "train": "10950",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "18:23:00",
+        "distance": "0"
+    },
+    {
+        "id": "185186",
+        "train": "10950",
+        "station": "71",
+        "seq": "2",
+        "arrival": "18:55:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185187",
+        "train": "10951",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "17:31:00",
+        "distance": "0"
+    },
+    {
+        "id": "185188",
+        "train": "10951",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "18:03:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185189",
+        "train": "10952",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "18:55:00",
+        "distance": "0"
+    },
+    {
+        "id": "185190",
+        "train": "10952",
+        "station": "71",
+        "seq": "2",
+        "arrival": "19:27:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185191",
+        "train": "10953",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "18:12:00",
+        "distance": "0"
+    },
+    {
+        "id": "185192",
+        "train": "10953",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "18:44:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185193",
+        "train": "10954",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "19:33:00",
+        "distance": "0"
+    },
+    {
+        "id": "185194",
+        "train": "10954",
+        "station": "71",
+        "seq": "2",
+        "arrival": "20:05:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185195",
+        "train": "10955",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "18:53:00",
+        "distance": "0"
+    },
+    {
+        "id": "185196",
+        "train": "10955",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "19:25:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185197",
+        "train": "10956",
+        "station": "8151",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "20:07:00",
+        "distance": "0"
+    },
+    {
+        "id": "185198",
+        "train": "10956",
+        "station": "71",
+        "seq": "2",
+        "arrival": "20:39:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    },
+    {
+        "id": "185199",
+        "train": "10957",
+        "station": "71",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "19:21:00",
+        "distance": "0"
+    },
+    {
+        "id": "185200",
+        "train": "10957",
+        "station": "8151",
+        "seq": "2",
+        "arrival": "19:53:00",
+        "departure": "00:00:00",
+        "distance": "20"
+    }
+]

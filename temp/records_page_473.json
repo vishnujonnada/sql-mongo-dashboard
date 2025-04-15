@@ -1,0 +1,902 @@
+[
+    {
+        "id": "47201",
+        "train": "2220",
+        "station": "573",
+        "seq": "21",
+        "arrival": "00:14:00",
+        "departure": "00:15:00",
+        "distance": "1093"
+    },
+    {
+        "id": "47202",
+        "train": "2220",
+        "station": "657",
+        "seq": "22",
+        "arrival": "01:44:00",
+        "departure": "01:45:00",
+        "distance": "1163"
+    },
+    {
+        "id": "47203",
+        "train": "2220",
+        "station": "1289",
+        "seq": "23",
+        "arrival": "02:34:00",
+        "departure": "02:35:00",
+        "distance": "1188"
+    },
+    {
+        "id": "47204",
+        "train": "2220",
+        "station": "1290",
+        "seq": "24",
+        "arrival": "04:14:00",
+        "departure": "04:15:00",
+        "distance": "1214"
+    },
+    {
+        "id": "47205",
+        "train": "2220",
+        "station": "1291",
+        "seq": "25",
+        "arrival": "04:39:00",
+        "departure": "04:40:00",
+        "distance": "1232"
+    },
+    {
+        "id": "47206",
+        "train": "2220",
+        "station": "4",
+        "seq": "26",
+        "arrival": "05:15:00",
+        "departure": "05:20:00",
+        "distance": "1248"
+    },
+    {
+        "id": "47207",
+        "train": "2220",
+        "station": "1878",
+        "seq": "27",
+        "arrival": "06:00:00",
+        "departure": "06:00:00",
+        "distance": "1273"
+    },
+    {
+        "id": "47208",
+        "train": "2221",
+        "station": "572",
+        "seq": "1",
+        "arrival": "15:45:00",
+        "departure": "15:45:00",
+        "distance": "0"
+    },
+    {
+        "id": "47209",
+        "train": "2221",
+        "station": "573",
+        "seq": "2",
+        "arrival": "16:09:00",
+        "departure": "16:10:00",
+        "distance": "20"
+    },
+    {
+        "id": "47210",
+        "train": "2221",
+        "station": "652",
+        "seq": "3",
+        "arrival": "16:43:00",
+        "departure": "16:45:00",
+        "distance": "57"
+    },
+    {
+        "id": "47211",
+        "train": "2221",
+        "station": "657",
+        "seq": "4",
+        "arrival": "17:28:00",
+        "departure": "17:30:00",
+        "distance": "90"
+    },
+    {
+        "id": "47212",
+        "train": "2221",
+        "station": "574",
+        "seq": "5",
+        "arrival": "18:33:00",
+        "departure": "18:35:00",
+        "distance": "141"
+    },
+    {
+        "id": "47213",
+        "train": "2221",
+        "station": "575",
+        "seq": "6",
+        "arrival": "19:28:00",
+        "departure": "19:30:00",
+        "distance": "199"
+    },
+    {
+        "id": "47214",
+        "train": "2221",
+        "station": "576",
+        "seq": "7",
+        "arrival": "20:08:00",
+        "departure": "20:10:00",
+        "distance": "246"
+    },
+    {
+        "id": "47215",
+        "train": "2221",
+        "station": "21",
+        "seq": "8",
+        "arrival": "21:10:00",
+        "departure": "21:20:00",
+        "distance": "279"
+    },
+    {
+        "id": "47216",
+        "train": "2221",
+        "station": "1036",
+        "seq": "9",
+        "arrival": "21:32:00",
+        "departure": "21:35:00",
+        "distance": "286"
+    },
+    {
+        "id": "47217",
+        "train": "2221",
+        "station": "1034",
+        "seq": "10",
+        "arrival": "22:32:00",
+        "departure": "22:35:00",
+        "distance": "354"
+    },
+    {
+        "id": "47218",
+        "train": "2221",
+        "station": "20",
+        "seq": "11",
+        "arrival": "23:37:00",
+        "departure": "23:40:00",
+        "distance": "413"
+    },
+    {
+        "id": "47219",
+        "train": "2221",
+        "station": "19",
+        "seq": "12",
+        "arrival": "02:50:00",
+        "departure": "02:55:00",
+        "distance": "558"
+    },
+    {
+        "id": "47220",
+        "train": "2221",
+        "station": "18",
+        "seq": "13",
+        "arrival": "04:18:00",
+        "departure": "04:20:00",
+        "distance": "622"
+    },
+    {
+        "id": "47221",
+        "train": "2221",
+        "station": "16",
+        "seq": "14",
+        "arrival": "05:47:00",
+        "departure": "05:50:00",
+        "distance": "678"
+    },
+    {
+        "id": "47222",
+        "train": "2221",
+        "station": "71",
+        "seq": "15",
+        "arrival": "06:33:00",
+        "departure": "06:35:00",
+        "distance": "715"
+    },
+    {
+        "id": "47223",
+        "train": "2221",
+        "station": "85",
+        "seq": "16",
+        "arrival": "07:15:00",
+        "departure": "07:15:00",
+        "distance": "732"
+    },
+    {
+        "id": "47224",
+        "train": "2222",
+        "station": "85",
+        "seq": "1",
+        "arrival": "18:45:00",
+        "departure": "18:45:00",
+        "distance": "0"
+    },
+    {
+        "id": "47225",
+        "train": "2222",
+        "station": "71",
+        "seq": "2",
+        "arrival": "19:08:00",
+        "departure": "19:10:00",
+        "distance": "17"
+    },
+    {
+        "id": "47226",
+        "train": "2222",
+        "station": "16",
+        "seq": "3",
+        "arrival": "19:42:00",
+        "departure": "19:45:00",
+        "distance": "54"
+    },
+    {
+        "id": "47227",
+        "train": "2222",
+        "station": "18",
+        "seq": "4",
+        "arrival": "21:38:00",
+        "departure": "21:40:00",
+        "distance": "110"
+    },
+    {
+        "id": "47228",
+        "train": "2222",
+        "station": "19",
+        "seq": "5",
+        "arrival": "23:05:00",
+        "departure": "23:10:00",
+        "distance": "174"
+    },
+    {
+        "id": "47229",
+        "train": "2222",
+        "station": "20",
+        "seq": "6",
+        "arrival": "02:37:00",
+        "departure": "02:40:00",
+        "distance": "319"
+    },
+    {
+        "id": "47230",
+        "train": "2222",
+        "station": "1034",
+        "seq": "7",
+        "arrival": "03:32:00",
+        "departure": "03:35:00",
+        "distance": "378"
+    },
+    {
+        "id": "47231",
+        "train": "2222",
+        "station": "1036",
+        "seq": "8",
+        "arrival": "04:42:00",
+        "departure": "04:45:00",
+        "distance": "446"
+    },
+    {
+        "id": "47232",
+        "train": "2222",
+        "station": "21",
+        "seq": "9",
+        "arrival": "05:25:00",
+        "departure": "05:30:00",
+        "distance": "453"
+    },
+    {
+        "id": "47233",
+        "train": "2222",
+        "station": "576",
+        "seq": "10",
+        "arrival": "05:59:00",
+        "departure": "06:00:00",
+        "distance": "486"
+    },
+    {
+        "id": "47234",
+        "train": "2222",
+        "station": "575",
+        "seq": "11",
+        "arrival": "06:39:00",
+        "departure": "06:40:00",
+        "distance": "532"
+    },
+    {
+        "id": "47235",
+        "train": "2222",
+        "station": "574",
+        "seq": "12",
+        "arrival": "07:48:00",
+        "departure": "07:50:00",
+        "distance": "590"
+    },
+    {
+        "id": "47236",
+        "train": "2222",
+        "station": "657",
+        "seq": "13",
+        "arrival": "08:40:00",
+        "departure": "08:42:00",
+        "distance": "641"
+    },
+    {
+        "id": "47237",
+        "train": "2222",
+        "station": "652",
+        "seq": "14",
+        "arrival": "09:25:00",
+        "departure": "09:26:00",
+        "distance": "675"
+    },
+    {
+        "id": "47238",
+        "train": "2222",
+        "station": "573",
+        "seq": "15",
+        "arrival": "10:20:00",
+        "departure": "10:22:00",
+        "distance": "711"
+    },
+    {
+        "id": "47239",
+        "train": "2222",
+        "station": "572",
+        "seq": "16",
+        "arrival": "11:15:00",
+        "departure": "11:15:00",
+        "distance": "731"
+    },
+    {
+        "id": "47240",
+        "train": "2223",
+        "station": "572",
+        "seq": "1",
+        "arrival": "20:50:00",
+        "departure": "20:50:00",
+        "distance": "0"
+    },
+    {
+        "id": "47241",
+        "train": "2223",
+        "station": "697",
+        "seq": "2",
+        "arrival": "21:19:00",
+        "departure": "21:20:00",
+        "distance": "35"
+    },
+    {
+        "id": "47242",
+        "train": "2223",
+        "station": "700",
+        "seq": "3",
+        "arrival": "22:00:00",
+        "departure": "22:10:00",
+        "distance": "57"
+    },
+    {
+        "id": "47243",
+        "train": "2223",
+        "station": "705",
+        "seq": "4",
+        "arrival": "22:59:00",
+        "departure": "23:00:00",
+        "distance": "105"
+    },
+    {
+        "id": "47244",
+        "train": "2223",
+        "station": "709",
+        "seq": "5",
+        "arrival": "23:24:00",
+        "departure": "23:25:00",
+        "distance": "124"
+    },
+    {
+        "id": "47245",
+        "train": "2223",
+        "station": "711",
+        "seq": "6",
+        "arrival": "23:54:00",
+        "departure": "23:55:00",
+        "distance": "150"
+    },
+    {
+        "id": "47246",
+        "train": "2223",
+        "station": "717",
+        "seq": "7",
+        "arrival": "00:39:00",
+        "departure": "00:40:00",
+        "distance": "185"
+    },
+    {
+        "id": "47247",
+        "train": "2223",
+        "station": "721",
+        "seq": "8",
+        "arrival": "00:59:00",
+        "departure": "01:00:00",
+        "distance": "203"
+    },
+    {
+        "id": "47248",
+        "train": "2223",
+        "station": "729",
+        "seq": "9",
+        "arrival": "02:05:00",
+        "departure": "02:10:00",
+        "distance": "248"
+    },
+    {
+        "id": "47249",
+        "train": "2223",
+        "station": "1122",
+        "seq": "10",
+        "arrival": "02:58:00",
+        "departure": "03:00:00",
+        "distance": "298"
+    },
+    {
+        "id": "47250",
+        "train": "2223",
+        "station": "1105",
+        "seq": "11",
+        "arrival": "04:10:00",
+        "departure": "04:30:00",
+        "distance": "341"
+    },
+    {
+        "id": "47251",
+        "train": "2223",
+        "station": "1050",
+        "seq": "12",
+        "arrival": "06:23:00",
+        "departure": "06:25:00",
+        "distance": "413"
+    },
+    {
+        "id": "47252",
+        "train": "2223",
+        "station": "1051",
+        "seq": "13",
+        "arrival": "07:07:00",
+        "departure": "07:10:00",
+        "distance": "439"
+    },
+    {
+        "id": "47253",
+        "train": "2223",
+        "station": "1052",
+        "seq": "14",
+        "arrival": "07:33:00",
+        "departure": "07:35:00",
+        "distance": "466"
+    },
+    {
+        "id": "47254",
+        "train": "2223",
+        "station": "1053",
+        "seq": "15",
+        "arrival": "07:55:00",
+        "departure": "08:00:00",
+        "distance": "476"
+    },
+    {
+        "id": "47255",
+        "train": "2223",
+        "station": "805",
+        "seq": "16",
+        "arrival": "08:24:00",
+        "departure": "08:25:00",
+        "distance": "491"
+    },
+    {
+        "id": "47256",
+        "train": "2223",
+        "station": "804",
+        "seq": "17",
+        "arrival": "08:50:00",
+        "departure": "08:51:00",
+        "distance": "513"
+    },
+    {
+        "id": "47257",
+        "train": "2223",
+        "station": "803",
+        "seq": "18",
+        "arrival": "09:25:00",
+        "departure": "09:26:00",
+        "distance": "546"
+    },
+    {
+        "id": "47258",
+        "train": "2223",
+        "station": "802",
+        "seq": "19",
+        "arrival": "10:05:00",
+        "departure": "10:06:00",
+        "distance": "588"
+    },
+    {
+        "id": "47259",
+        "train": "2223",
+        "station": "801",
+        "seq": "20",
+        "arrival": "10:50:00",
+        "departure": "10:51:00",
+        "distance": "637"
+    },
+    {
+        "id": "47260",
+        "train": "2223",
+        "station": "800",
+        "seq": "21",
+        "arrival": "11:15:00",
+        "departure": "11:16:00",
+        "distance": "655"
+    },
+    {
+        "id": "47261",
+        "train": "2223",
+        "station": "207",
+        "seq": "22",
+        "arrival": "11:45:00",
+        "departure": "11:45:00",
+        "distance": "660"
+    },
+    {
+        "id": "47262",
+        "train": "2224",
+        "station": "207",
+        "seq": "1",
+        "arrival": "15:40:00",
+        "departure": "15:40:00",
+        "distance": "0"
+    },
+    {
+        "id": "47263",
+        "train": "2224",
+        "station": "800",
+        "seq": "2",
+        "arrival": "15:49:00",
+        "departure": "15:50:00",
+        "distance": "4"
+    },
+    {
+        "id": "47264",
+        "train": "2224",
+        "station": "801",
+        "seq": "3",
+        "arrival": "16:10:00",
+        "departure": "16:11:00",
+        "distance": "22"
+    },
+    {
+        "id": "47265",
+        "train": "2224",
+        "station": "802",
+        "seq": "4",
+        "arrival": "16:59:00",
+        "departure": "17:00:00",
+        "distance": "72"
+    },
+    {
+        "id": "47266",
+        "train": "2224",
+        "station": "803",
+        "seq": "5",
+        "arrival": "17:31:00",
+        "departure": "17:32:00",
+        "distance": "113"
+    },
+    {
+        "id": "47267",
+        "train": "2224",
+        "station": "804",
+        "seq": "6",
+        "arrival": "18:04:00",
+        "departure": "18:05:00",
+        "distance": "146"
+    },
+    {
+        "id": "47268",
+        "train": "2224",
+        "station": "805",
+        "seq": "7",
+        "arrival": "18:34:00",
+        "departure": "18:35:00",
+        "distance": "168"
+    },
+    {
+        "id": "47269",
+        "train": "2224",
+        "station": "1053",
+        "seq": "8",
+        "arrival": "19:30:00",
+        "departure": "19:40:00",
+        "distance": "183"
+    },
+    {
+        "id": "47270",
+        "train": "2224",
+        "station": "1052",
+        "seq": "9",
+        "arrival": "19:51:00",
+        "departure": "19:52:00",
+        "distance": "194"
+    },
+    {
+        "id": "47271",
+        "train": "2224",
+        "station": "1051",
+        "seq": "10",
+        "arrival": "20:15:00",
+        "departure": "20:18:00",
+        "distance": "220"
+    },
+    {
+        "id": "47272",
+        "train": "2224",
+        "station": "1050",
+        "seq": "11",
+        "arrival": "20:43:00",
+        "departure": "20:45:00",
+        "distance": "247"
+    },
+    {
+        "id": "47273",
+        "train": "2224",
+        "station": "1105",
+        "seq": "12",
+        "arrival": "22:55:00",
+        "departure": "23:10:00",
+        "distance": "318"
+    },
+    {
+        "id": "47274",
+        "train": "2224",
+        "station": "1122",
+        "seq": "13",
+        "arrival": "23:54:00",
+        "departure": "23:55:00",
+        "distance": "361"
+    },
+    {
+        "id": "47275",
+        "train": "2224",
+        "station": "729",
+        "seq": "14",
+        "arrival": "01:05:00",
+        "departure": "01:10:00",
+        "distance": "412"
+    },
+    {
+        "id": "47276",
+        "train": "2224",
+        "station": "721",
+        "seq": "15",
+        "arrival": "02:08:00",
+        "departure": "02:10:00",
+        "distance": "456"
+    },
+    {
+        "id": "47277",
+        "train": "2224",
+        "station": "717",
+        "seq": "16",
+        "arrival": "02:28:00",
+        "departure": "02:30:00",
+        "distance": "474"
+    },
+    {
+        "id": "47278",
+        "train": "2224",
+        "station": "711",
+        "seq": "17",
+        "arrival": "03:09:00",
+        "departure": "03:10:00",
+        "distance": "509"
+    },
+    {
+        "id": "47279",
+        "train": "2224",
+        "station": "709",
+        "seq": "18",
+        "arrival": "03:49:00",
+        "departure": "03:50:00",
+        "distance": "535"
+    },
+    {
+        "id": "47280",
+        "train": "2224",
+        "station": "705",
+        "seq": "19",
+        "arrival": "04:09:00",
+        "departure": "04:10:00",
+        "distance": "554"
+    },
+    {
+        "id": "47281",
+        "train": "2224",
+        "station": "700",
+        "seq": "20",
+        "arrival": "05:58:00",
+        "departure": "06:00:00",
+        "distance": "602"
+    },
+    {
+        "id": "47282",
+        "train": "2224",
+        "station": "697",
+        "seq": "21",
+        "arrival": "06:19:00",
+        "departure": "06:20:00",
+        "distance": "625"
+    },
+    {
+        "id": "47283",
+        "train": "2224",
+        "station": "572",
+        "seq": "22",
+        "arrival": "07:30:00",
+        "departure": "07:30:00",
+        "distance": "661"
+    },
+    {
+        "id": "47284",
+        "train": "2225",
+        "station": "572",
+        "seq": "1",
+        "arrival": "00:00:00",
+        "departure": "22:30:00",
+        "distance": "0"
+    },
+    {
+        "id": "47285",
+        "train": "2225",
+        "station": "700",
+        "seq": "2",
+        "arrival": "23:35:00",
+        "departure": "23:40:00",
+        "distance": "57"
+    },
+    {
+        "id": "47286",
+        "train": "2225",
+        "station": "709",
+        "seq": "3",
+        "arrival": "00:58:00",
+        "departure": "01:00:00",
+        "distance": "124"
+    },
+    {
+        "id": "47287",
+        "train": "2225",
+        "station": "711",
+        "seq": "4",
+        "arrival": "01:23:00",
+        "departure": "01:25:00",
+        "distance": "150"
+    },
+    {
+        "id": "47288",
+        "train": "2225",
+        "station": "717",
+        "seq": "5",
+        "arrival": "02:14:00",
+        "departure": "02:15:00",
+        "distance": "185"
+    },
+    {
+        "id": "47289",
+        "train": "2225",
+        "station": "729",
+        "seq": "6",
+        "arrival": "03:45:00",
+        "departure": "03:50:00",
+        "distance": "248"
+    },
+    {
+        "id": "47290",
+        "train": "2225",
+        "station": "1048",
+        "seq": "7",
+        "arrival": "06:40:00",
+        "departure": "06:50:00",
+        "distance": "357"
+    },
+    {
+        "id": "47291",
+        "train": "2225",
+        "station": "98",
+        "seq": "8",
+        "arrival": "10:00:00",
+        "departure": "10:05:00",
+        "distance": "544"
+    },
+    {
+        "id": "47292",
+        "train": "2225",
+        "station": "19",
+        "seq": "9",
+        "arrival": "11:50:00",
+        "departure": "12:00:00",
+        "distance": "622"
+    },
+    {
+        "id": "47293",
+        "train": "2225",
+        "station": "16",
+        "seq": "10",
+        "arrival": "15:20:00",
+        "departure": "15:25:00",
+        "distance": "742"
+    },
+    {
+        "id": "47294",
+        "train": "2225",
+        "station": "71",
+        "seq": "11",
+        "arrival": "16:12:00",
+        "departure": "16:15:00",
+        "distance": "779"
+    },
+    {
+        "id": "47295",
+        "train": "2225",
+        "station": "85",
+        "seq": "12",
+        "arrival": "16:55:00",
+        "departure": "00:00:00",
+        "distance": "796"
+    },
+    {
+        "id": "47296",
+        "train": "2226",
+        "station": "85",
+        "seq": "1",
+        "arrival": "21:15:00",
+        "departure": "21:15:00",
+        "distance": "0"
+    },
+    {
+        "id": "47297",
+        "train": "2226",
+        "station": "71",
+        "seq": "2",
+        "arrival": "21:38:00",
+        "departure": "21:40:00",
+        "distance": "17"
+    },
+    {
+        "id": "47298",
+        "train": "2226",
+        "station": "16",
+        "seq": "3",
+        "arrival": "22:20:00",
+        "departure": "22:25:00",
+        "distance": "54"
+    },
+    {
+        "id": "47299",
+        "train": "2226",
+        "station": "19",
+        "seq": "4",
+        "arrival": "01:40:00",
+        "departure": "02:00:00",
+        "distance": "174"
+    },
+    {
+        "id": "47300",
+        "train": "2226",
+        "station": "98",
+        "seq": "5",
+        "arrival": "03:23:00",
+        "departure": "03:28:00",
+        "distance": "252"
+    }
+]
