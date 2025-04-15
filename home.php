@@ -21,8 +21,23 @@ $role = $_SESSION['role'];
   <style>
     .pagination .page-item { margin: 0 5px; }
     .pagination-wrapper { display: flex; justify-content: center; align-items: center; }
-    .modal { display: block; background: rgba(0,0,0,0.5); }
-    .modal-dialog { margin: 10% auto; }
+    .modal { display: block; background: rgba(0,0,0,0.5);  }
+    .modal-dialog {
+        max-height: 80vh; 
+        overflow: hidden; 
+      }
+
+    .modal-dialog-scrollable .modal-content {
+      max-height: 70vh;
+      overflow-y: auto; 
+    }
+
+    .modal {
+      position: fixed; 
+      top: 50%; 
+      left: 50%; 
+      transform: translate(-50%, -50%); 
+    }
   </style>
 </head>
 <body>
@@ -139,9 +154,9 @@ $role = $_SESSION['role'];
             </div>
           </div>
           <div>
-  <h5>Limit</h5>
-  <input type="number" class="form-control" v-model="aggregate.limit" placeholder="Limit number of records">
-</div>
+            <h5>Limit</h5>
+            <input type="number" class="form-control" v-model="aggregate.limit" placeholder="Limit number of records">
+          </div>
           <button class="btn btn-primary" @click="runAggregateQuery">Run Query</button>
           <button class="btn btn-secondary ml-2" @click="showAggregateModal = false">Cancel</button>
         </div>
