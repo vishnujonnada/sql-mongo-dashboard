@@ -16,7 +16,28 @@ if (!$source || !$table) {
     exit;
 }
 
-if (!is_dir("temp")) mkdir("temp");
+$directory = "temp";
+
+if (is_dir($directory)) {
+    $items = array_diff(scandir($directory), array('.', '..'));
+    
+    foreach ($items as $item) {
+        $itemPath = $directory . DIRECTORY_SEPARATOR . $item;
+        if (is_dir($itemPath)) {
+            $subItems = array_diff(scandir($itemPath), array('.', '..')); 
+            foreach ($subItems as $subItem) {
+                unlink($itemPath . DIRECTORY_SEPARATOR . $subItem); 
+            }
+            rmdir($itemPath); 
+        } else {
+            unlink($itemPath); 
+        }
+    }
+    
+    rmdir($directory); // Remove the now-empty directory
+}
+
+mkdir($directory); // Create the directory again
 
 $total = 0;
 $allData = [];
